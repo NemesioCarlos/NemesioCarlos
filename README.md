@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Olá, sou Nemésio Carlos! 👋 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nemes.io) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nem%C3%A9sio-carlos-650960254/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nemesio.carlos97@gmail.com) 
+Sou Nemésio Carlos!  [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nemes.io) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nem%C3%A9sio-carlos-650960254/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nemesio.carlos97@gmail.com) 
 
 <div>
     <img  height="285em" src="https://github-readme-stats.vercel.app/api?username=nemesiocarlos&show_icons=true&theme=radical"/>
