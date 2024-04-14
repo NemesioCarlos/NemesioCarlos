@@ -26,6 +26,6 @@ Bem-vindo ao meu perfil do Github! sou Desenvolvedor Front-End e faço freelacer
   <img align="center" alt="nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
-   
+ <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg">   
 
 </div>
