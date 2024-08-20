@@ -4,10 +4,10 @@ Bem-vindo ao meu perfil do Github! sou Professor de informática, Desenvolvedor 
 
 
 
-- 💻 Atualmente, estou procurando uma oportunidade como Desenvolvedor Web.
-- 📚 Sou técnico em Desenvolvimento de Sistemas, fiz também o uma formação em Front end pela Softex Recife, de 06 meses e estou cursando faculdade de ADS.
-- 📖 Além dos cursos de TI estou me especializando em inglês, atualmente possuo nível intermediário.
-- 👨🏻‍💻 Possuo boa comunicação com clientes, trabalho em equipe e sempre estou a procura de novos conhecimentos.
+- 💻 Procurando Oportunidades: Atualmente, estou procurando uma oportunidade como Desenvolvedor Web.
+- 📚 Formação: Sou técnico em Desenvolvimento de Sistemas e concluí uma formação de 6 meses em Front-end pela Softex Recife. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS).
+- 📖 Aprimoramento Contínuo: Além dos cursos de TI, estou me especializando em inglês e possuo nível intermediário.
+- 👨🏻‍💻 Habilidades Interpessoais: Tenho excelente comunicação com clientes, trabalho bem em equipe e estou sempre em busca de novos conhecimentos.
 
   ## Estatísticas do GitHub
   
