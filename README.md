@@ -1,12 +1,12 @@
 # Olá, Sou Nemésio Carlos! 👋[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nemes.io) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nem%C3%A9sio-carlos-650960254/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nemesio.carlos97@gmail.com) 
 
-Bem-vindo ao meu perfil do Github! sou Desenvolvedor Web e faço freelacer como desing grafico e editor de mídias digitais.  
+Bem-vindo ao meu perfil do Github! sou Professor de informática, Desenvolvedor Web e faço freelacer como desingner grafico e editor de mídias digitais.  
 
 
 
 - 💻 Atualmente, estou procurando uma oportunidade como Desenvolvedor Web.
-- 📚 Estou cursando o 3º período do Curso técnico em Desenvolvimento de Sistemas e sou formado em Front end pela Softex Recife.
-- 📖 Além dos cursos de TI estou me especializando no inglês, atualmente possuo nível intermediário.
+- 📚 Sou técnico em Desenvolvimento de Sistemas, fiz também o uma formação em Front end pela Softex Recife, de 06 meses e estou cursando faculdade de ADS.
+- 📖 Além dos cursos de TI estou me especializando em inglês, atualmente possuo nível intermediário.
 - 👨🏻‍💻 Possuo boa comunicação com clientes, trabalho em equipe e sempre estou a procura de novos conhecimentos.
 
   ## Estatísticas do GitHub
